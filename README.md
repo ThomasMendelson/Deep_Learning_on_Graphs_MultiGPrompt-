@@ -1,7 +1,7 @@
 # test_downprompt_simple.py
 
 ## Overview
-
+project submission. 
 This script provides a **clean, reproducible evaluation pipeline** for node classification on Cora and Citeseer using the MultiGPrompt framework. It is designed to **avoid data leakage** and supports both prototype-based and simple MLP classifier evaluation modes. All configuration, data loading, model loading, and evaluation are handled in a single script.
 
 ## Features
@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ### 3. Run the script
 
 ```bash
+cd MutilGPrompt_CoraCiteseer_node
 python test_downprompt_simple.py
 ```
 
